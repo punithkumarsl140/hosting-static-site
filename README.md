@@ -8,7 +8,7 @@ This repo contains a simple static site deployed with GitHub Pages.
 - Enabled GitHub Pages on branch `main` (root)
 
 ## Live site
-https://<username>.github.io/task6-static-site/
+https://punithkumarsl140.github.io/hosting-static-site/
 
 ## Notes for reviewers
 - Repo is public
